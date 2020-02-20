@@ -93,7 +93,7 @@ class ThemeifyPlugin(octoprint.plugin.StartupPlugin,
                 current=self._plugin_version,
 
                 # update method: pip
-                pip="https://github.com/ncab1791/OctoPrint-Themeify/archive/{target_version}.zip"
+                pip="https://github.com/ncab1791/OctoPrint-Themeify/archive/master.zip"
             )
         )
 
