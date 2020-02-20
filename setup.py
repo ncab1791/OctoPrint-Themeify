@@ -14,7 +14,7 @@ plugin_author = "Birk Johansson"
 
 plugin_author_email = "birkbjo@gmail.com"
 
-plugin_url = "https://github.com/birkbjo/OctoPrint-Themeify"
+plugin_url = "https://github.com/ncab1791/OctoPrint-Themeify"
 
 plugin_license = "AGPLv3"
 
